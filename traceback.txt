@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1877, in script
+    jump Up
+ScriptError: could not find label 'Up'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1877, in script
+    jump Up
+  File "E:\renpy-8.2.1-sdk\renpy\ast.py", line 1698, in execute
+    rv = renpy.game.script.lookup(target)
+  File "E:\renpy-8.2.1-sdk\renpy\script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'Up'.
+
+Windows-10-10.0.19045 AMD64
+Ren'Py 8.2.1.24030407
+The Eve Of Lilith Prototype-WIP
+Tue Mar 24 00:05:26 2026
