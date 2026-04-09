@@ -2395,6 +2395,11 @@ label afterchoices29_2:
 
     hide s29p39
 
+    #A burger eating scene?
+
+    #A scene of them moving to the train?
+
+
     #Scene 30
 
     #mc looks around the train, lots of woman looking at him again
