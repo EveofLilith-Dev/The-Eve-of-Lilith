@@ -2175,6 +2175,11 @@ label controls29:
 
     misc "Sure, i dont even like coffee."
 
+    #drink scene
+    #morg "[mc], isnt that hot?"
+    #mc "Extremely."
+
+
     show s29bag1
 
     misc ""
