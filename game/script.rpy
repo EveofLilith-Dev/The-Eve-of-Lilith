@@ -2450,7 +2450,7 @@ label afterchoices29_2:
 
     show s30p10
 
-    #mc "Yeah, and im not looking forward to it."
+    mc "Yeah, and im not looking forward to it."
 
     #morg "Thats, Understandable, given past events."
 
