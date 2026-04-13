@@ -2404,50 +2404,51 @@ label afterchoices29_2:
 
     #A scene of them moving to the train?
 
-
     #Scene 30
 
-    #mc looks around the train, lots of woman looking at him again
+    show s30p1
 
-    #show s30p1
+    misc ""
 
-    #show s30p2
+    show s30p2
 
-    #show s30p3
+    misc ""
 
-    #morg "Something bothering you [morgtomc]?"
+    show s30p3
 
-    #mc "Their sure is a lot of women on this train."
+    morg "Something bothering you [morgtomc]?"
 
-    #show s30p4
+    mc "Their sure is a lot of women on this train."
 
-    #morg "Well, this is the women only train afterall."
+    show s30p4
 
-    #Cheeky grin from morgan
+    morg "Well, this is the women only train afterall."
 
-    #show s30p5
+    show s30p5
 
-    #mc "I guess that would explain the deja vu then"
+    mc "I guess that would explain the deja vu then"
 
-    #morg "You've been in here before?"
+    morg "You've been in here before?"
 
-    #show s30p6
+    show s30p6
 
-    #mc "Yes, on the train home from the academy."
+    mc "Yes, on the train home from the academy."
     
-    #mc "I really wasnt paying attention so i didnt notice."
+    mc "I really wasnt paying attention so i didnt notice."
 
-    #show s30p7
+    show s30p7
 
-    #morg "Seems like both you and [me] are getting bolder."
+    morg "Seems like both you and [me] are getting bolder."
 
-    #show s30p8
+    show s30p8
 
-    #morg "And youre going to have to get used to crowds of women..."
+    morg "And youre going to have to get used to crowds of women..."
 
-    #show s30p9
+    show s30p9
 
-    #morg "...now that youre no longer at the academy."
+    morg "...now that youre no longer at the academy."
+
+    show s30p10
 
     #mc "Yeah, and im not looking forward to it."
 
@@ -2457,7 +2458,7 @@ label afterchoices29_2:
 
     #mc "Why even is their a women only train?"
 
-    #morg "Their were repeated incidents a couple months ago involving groups of city goblins."
+    #morg "Their were repeated incidents a couple months ago involving groups of goblins."
 
     #mc "Oh, That'll do it i suppose."
 
