@@ -2442,15 +2442,15 @@ label afterchoices29_2:
 
     show s30p8
 
-    morg "And youre going to have to get used to crowds of women..."
+    morg "And, well, you need to get used to crowds of women..."
 
     show s30p9
 
-    morg "...now that youre no longer at the academy."
+    morg "...now that you're no longer at the academy."
 
     show s30p10
 
-    mc "Yeah, and im not looking forward to it."
+    mc "Yeah i do, but im not looking forward to it."
 
     #morg "Thats, Understandable, given past events."
 
