@@ -2426,9 +2426,9 @@ label afterchoices29_2:
 
     show s30p5
 
-    mc "I guess that would explain the deja vu then"
+    mc "I guess that would explain the deja vu then."
 
-    morg "You've been in here before?"
+    morg "You've been in this place before?"
 
     show s30p6
 
