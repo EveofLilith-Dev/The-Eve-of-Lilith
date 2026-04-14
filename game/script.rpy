@@ -2462,4 +2462,40 @@ label afterchoices29_2:
 
     #mc "Oh, That'll do it i suppose."
 
+    #Scene 31
+
+    #They get home and enter, morgans arms still wrapped around adams arm, meridia see's this and begins pouting or whatever, morgan looks at meridia and sticks out her tongue and release adams arm.
+
+    #Morgan grabs the bag from Adam and leaves, meridia goes over to adam
+
+    morg "Have fun you two"
+
+    #meridia begins fidgiting
+
+    mc "Something wrong sister?"
+
+    me "uhh...uhh..."
+
+    me "Lily.... Girlfriend.... Me...."
+
+    #Adam then grabs meridia by the hips and lifts her up and begins hugging her, meridia is a little surprised bu quickly wraps her arms and legs around him.
+
+    #Adam carrys her over to his room and places her on the cushion
+
+    #Scene 32
+
+    mc "So its cold in your room is it?"
+
+    me "Well yeah, it was a garage remember."
+
+    mc "True, it has been some time since we shared this room together since the garage was renovated."
+
+    me "It's been... too long..."
+
+    mc "I dont really mind you sleeping with me, if that's something you want to do more often."
+
+    me "You dont?, but your..."
+
+    mc "Again, no longer my girlfriend, not that it would matter, we slept together in the past, i wouldnt deny you that request even if i still had a girlfriend."
+
 return     # This ends the game.
