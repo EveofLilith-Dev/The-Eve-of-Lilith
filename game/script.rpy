@@ -2498,7 +2498,7 @@ label afterchoices29_2:
 
     mc "Again, no longer my girlfriend, not that it would matter, we slept together in the past, i wouldnt deny you that request even if i still had a girlfriend."
 
-    #PARTLY AI GENERATED TEXT
+    #AI DISCLOSURE - Used Ai to generate dialog, that i then modified into whats here.
 
     me "You've always said things like that so casually."
 
@@ -2540,6 +2540,6 @@ label afterchoices29_2:
 
     #Meridia dives into Adam
 
-    #END OF AI GENERATED TEXT
+    #End of AI generated section
 
 return     # This ends the game.
