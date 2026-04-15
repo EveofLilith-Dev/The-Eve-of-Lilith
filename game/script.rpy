@@ -2452,15 +2452,15 @@ label afterchoices29_2:
 
     mc "Yeah i do, but im not looking forward to it."
 
-    #morg "Thats, Understandable, given past events."
+    morg "Thats, Understandable, given past events."
 
-    #morg "Regardless, they'll have to go through me first to get you."
+    morg "Regardless, they'll have to go through me first to get you."
 
-    #mc "Why even is their a women only train?"
+    mc "Why even is their a women only train?"
 
-    #morg "Their were repeated incidents a couple months ago involving groups of goblins."
+    morg "Their were repeated incidents a couple months ago involving groups of goblins."
 
-    #mc "Oh, That'll do it i suppose."
+    mc "Oh, That'll do it i suppose."
 
     #Scene 31
 
@@ -2472,7 +2472,7 @@ label afterchoices29_2:
 
     #meridia begins fidgiting
 
-    mc "Something wrong sister?"
+    mc "Something wrong [metomc]?"
 
     me "uhh...uhh..."
 
@@ -2488,7 +2488,7 @@ label afterchoices29_2:
 
     me "Well yeah, it was a garage remember."
 
-    mc "True, it has been some time since we shared this room together since the garage was renovated."
+    mc "And it's been some time since we shared this room together since the garage was renovated."
 
     me "It's been... too long..."
 
@@ -2497,5 +2497,47 @@ label afterchoices29_2:
     me "You dont?, but your..."
 
     mc "Again, no longer my girlfriend, not that it would matter, we slept together in the past, i wouldnt deny you that request even if i still had a girlfriend."
+
+    #PARTLY AI GENERATED TEXT
+
+    me "You've always said things like that so casually."
+
+    mc "Because thats how i want it to be, i havent changed at all, despite my absence and relationships."
+
+    me "But things things are different now."
+
+    mc "Different how?"
+
+    me "Ive changed, you were always here, then you left for the Academy..."
+
+    me "I was fine at first but i became frustrated, i was angry at you for leaving me."
+
+    #Adam shifts a little closer, his tone softening.
+
+    mc "You're still who you are to me. That part never changed."
+
+    me "I know, it just doesn't feel the same right now."
+
+    mc "Then maybe that's exactly why you should stay tonight."
+
+    #Meridia hesitates, glancing at the empty side of the bed.
+
+    me "And you really don't mind?"
+
+    mc "If I did, I wouldn't offer."
+
+    me "...okay, just for tonight, maybe."
+
+    mc "That's all I'm asking."
+
+    #There’s a small pause as she settles in, the tension easing just a little.
+
+    mc "See? Not so complicated."
+
+    me "...you always make it sound easy."
+
+    mc "Someone has to."
+
+    #Meridia dives into Adam
 
 return     # This ends the game.
