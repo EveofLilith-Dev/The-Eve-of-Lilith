@@ -2542,4 +2542,20 @@ label afterchoices29_2:
 
     #End of AI generated section
 
+    #eating scene?
+
+    #bedroom scene of mc and me going to bed
+
+    #dream scene involving Lilandra and mc, lilandra speculates about mc's true self and sexually teases him
+
+    #morning scene, mc has an erection, me wakes first and see's this
+
+    #Day 3
+
+    #scene of mc and me going to violets library, group of women begin to follow them, mc knows whats going to happen so quickly moves into an alleyway, then they go to the library and tell violet what happens.
+
+    #Violets tells me about mc first day at the academy, and the group of female students that did the same, however one of them touched him and was enchanted/enslaved, also the group was bullying phiat for being a goblin.
+
+    #It will be a flashback scene.
+
 return     # This ends the game.
