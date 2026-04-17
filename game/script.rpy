@@ -2528,8 +2528,6 @@ label afterchoices29_2:
 
     me "...okay, just for tonight, maybe."
 
-    mc "That's all I'm asking."
-
     #There’s a small pause as she settles in, the tension easing just a little.
 
     mc "See? Not so complicated."
@@ -2542,7 +2540,13 @@ label afterchoices29_2:
 
     #End of AI generated section
 
-    #eating scene?
+    #eating scene? mc and me go upstairs to the kitchen, me arms wrapped around mc
+
+    #morg "Well it good to see you two getting along nicely."
+
+    #morg "Food shall be ready soon."
+
+    #Black screen central text, Meridia goes on talking with MC about her visit to the library tomorrow, eventually Morgana brings food and they all eat. [Weird Shit]
 
     #bedroom scene of mc and me going to bed
 
