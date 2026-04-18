@@ -2498,7 +2498,7 @@ label afterchoices29_2:
 
     mc "Again, no longer my girlfriend, not that it would matter, we slept together in the past, i wouldnt deny you that request even if i still had a girlfriend."
 
-    #AI DISCLOSURE - Used Ai to generate dialog, that i then modified into whats here.
+        #AI DISCLOSURE - Used Ai to generate dialog, that i then modified into whats here.
 
     me "You've always said things like that so casually."
 
@@ -2538,17 +2538,51 @@ label afterchoices29_2:
 
     #Meridia dives into Adam
 
-    #End of AI generated section
+        #End of AI generated section
+
+    #Scene 33
 
     #eating scene? mc and me go upstairs to the kitchen, me arms wrapped around mc
 
-    #morg "Well it good to see you two getting along nicely."
+    morg "Well it good to see you two getting along nicely."
 
-    #morg "Food shall be ready soon."
+    morg "Food shall be ready soon."
 
     #Black screen central text, Meridia goes on talking with MC about her visit to the library tomorrow, eventually Morgana brings food and they all eat. [Weird Shit]
+    
+    #Scene 34
 
-    #bedroom scene of mc and me going to bed
+        #AI DISCLOSURE - Used Ai to generate dialog, that i then modified into whats here.
+
+    mc "(hopping into bed) Come on, [me]. We agreed to this."
+
+    me "(standing nervously by the bedside) I know... it's just..."
+
+    mc "What? You did it last night, remember?"
+
+    mw "(blushing) That was different. I kinda snuck in. This time it feels intentional."
+
+    mc "It is intentional. And you're still standing there."
+
+    me "(sighing) Fine...."
+
+    mc "[me], we've seen each other in our underwear a million times before."
+
+    me "(giggling softly) Yeah, I guess you're right..."
+
+    #(She slowly starts to undress, stealing glances at Adam as she does)
+
+    mc "There we go. See? No big deal."
+
+    me "(slipping into bed beside him) This is still weird though..."
+
+    mc "Nah, it's just us. Same as always."
+
+    me "(snuggling close) I guess you're right. It does feel nice to be cozy with someone. Even if it's you, [mctome]."
+
+    mc "See? Told ya there was nothing to worry about. Now go to sleep, you weirdo."
+
+        #End of AI generated section
 
     #dream scene involving Lilandra and mc, lilandra speculates about mc's true self and sexually teases him
 
