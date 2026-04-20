@@ -2396,7 +2396,7 @@ label afterchoices29_2:
 
     show s29p39
 
-    mc "Thanks [mctomorg]"
+    mc "Thanks [mctomorg]."
 
     hide s29p39
 
@@ -2454,13 +2454,23 @@ label afterchoices29_2:
 
     morg "Thats, Understandable, given past events."
 
+    show s30p11
+
     morg "Regardless, they'll have to go through me first to get you."
 
     mc "Why even is their a women only train?"
 
-    morg "Their were repeated incidents a couple months ago involving groups of goblins."
+    morg "Their have been repeated incidents over the past year..."
 
-    mc "Oh, That'll do it i suppose."
+    morg "...parts of the city are becoming more unstable."
+
+    morg "Goblin migration, feral succubi, elves becoming more belligerent, fae isolating and beastfolk tribes are splintering."
+
+    mc "Seems a little more severe that just 'repeated incidents'."
+
+    morg "Oh, and theirs men only trains as well, but yes, i agree."
+
+    
 
     #Scene 31
 
